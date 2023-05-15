@@ -1,0 +1,7 @@
+# README
+
+## Deploy
+
+```
+flyctl deploy
+```
