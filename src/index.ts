@@ -8,7 +8,7 @@ const server = fastify({
 });
 
 server.get("/", async () => {
-  return { hello: "world" };
+  return { hello: "world!" };
 });
 
 (async () => {
